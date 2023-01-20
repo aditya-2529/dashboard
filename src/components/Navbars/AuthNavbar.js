@@ -19,8 +19,8 @@ const AdminNavbar = () => {
         <Container className="px-4">
           <NavbarBrand to="/" tag={Link}>
             <img
-              alt="..."
-              src={require("../../assets/img/brand/argon-react-white.png")}
+              alt="AdsHike"
+              src="https://adshike.com/duneegle/2022/12/AdsHike_Logo.png"
             />
           </NavbarBrand>
           <button className="navbar-toggler" id="navbar-collapse-main">
@@ -32,8 +32,8 @@ const AdminNavbar = () => {
                 <Col className="collapse-brand" xs="6">
                   <Link to="/">
                     <img
-                      alt="..."
-                      src={require("../../assets/img/brand/argon-react.png")}
+                      alt="AdsHike"
+                      src="https://adshike.com/duneegle/2022/12/AdsHike_Logo.png"
                     />
                   </Link>
                 </Col>
